@@ -57,7 +57,7 @@ block
 ***
 [Trader Link](http://traderlink.com.br/).
 ***
-[Trader Link](http://traderlink.com.br/ "My site").
+[Trader Link](http://traderlink.com.br/ "Trader Link").
 ***
 ![befree](https://user-images.githubusercontent.com/9466017/146870905-276071d7-06b9-4a91-824b-88c73df337ad.JPG "Be Free")
 ***
@@ -89,7 +89,7 @@ See the section on [`Heading level 5`](#heading-level-5).
 | Character | Name  |
 |:-------------------:|:-----------------------|
 | `\` | backslash |
-| `` ` `` | backtick (see also [escaping backticks in code](#escaping-backticks)) |
+| `` ` `` | backtick |
 | `*` | asterisk |
 | `_` | underscore |
 | `{}` | curly braces |
@@ -101,7 +101,7 @@ See the section on [`Heading level 5`](#heading-level-5).
 | `-` | minus sign (hyphen) |
 | `.` | dot |
 | `!` | exclamation mark |
-| `|` | pipe (see also [escaping pipe in tables](#escaping-pipe-characters-in-tables)) |
+| `|` | pipe  |
 ***
 [hobbit-hole] 
 ***
@@ -145,7 +145,7 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 ***
-[Heading IDs](http://www.example.com/)
+[Example](http://www.example.com/)
 
 [^1]: This is the first footnote.
 
